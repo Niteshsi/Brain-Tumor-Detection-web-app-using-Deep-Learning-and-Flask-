@@ -1,0 +1,2 @@
+# Brain-Tumor-Detection-web-app-using-Deep-Learning-and-Flask-
+Developed a web-based application for automatic brain tumor detection using a trained Convolutional Neural Network (CNN) model. The system allows users to  upload MRI images through a simple browser interface built with Flask and get  instant predictions. • Tools &amp; Technologies Used: • Python  &amp;  Flask • Tensorflow , Keras • OpenCV • HTML , CSS ,  
